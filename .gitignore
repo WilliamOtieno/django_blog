@@ -1,0 +1,5 @@
+.idea
+venv
+django_blog/__pycache__/
+blog/__pycache__/
+__pycache__/

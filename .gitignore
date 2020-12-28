@@ -1,2 +1,5 @@
 .idea
 venv
+django_project/__pycache__/
+__pycache__/
+*/__pycache__/

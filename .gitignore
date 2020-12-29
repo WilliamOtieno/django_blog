@@ -1,11 +1,8 @@
 .idea
 venv
-<<<<<<< HEAD
 django_blog/__pycache__/
 blog/__pycache__/
 __pycache__/
-=======
 django_project/__pycache__/
-__pycache__/
 */__pycache__/
->>>>>>> 6eec5db06bd28c8569f689a83527265ac99d945e
+blog/migrations/__pycache__/

@@ -6,3 +6,5 @@ __pycache__/
 django_project/__pycache__/
 */__pycache__/
 blog/migrations/__pycache__/
+users/__pycache__/
+users/migrations/__pycache__/
